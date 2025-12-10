@@ -35,7 +35,7 @@ Plataforma de cursos educativos online (Utndemy)
 
 ### Modelo de Dominio
 
-![Alt](https://github.com/Ramiro-Mc/tp-dsw/blob/main/Diagrama.png?raw=true)
+![Alt]([https://github.com/Ramiro-Mc/tp-dsw/blob/main/Diagrama.png?raw=true](https://github.com/Ramiro-Mc/tp-dsw-proposal/blob/main/Diagrama.png))
 
 ### Funcionalidades Adicionales Implementadas
 
